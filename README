@@ -1,0 +1,3 @@
+This is a Corsica plugin that intercepts links to http://etherpad.mozilla.org,
+and replaces them with the contents of the requested Etherpad in a nice 10ft
+format. This is needed because Etherpad denies framing.

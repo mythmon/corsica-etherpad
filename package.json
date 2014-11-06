@@ -1,0 +1,24 @@
+{
+  "name": "corsica-martell",
+  "version": "0.1.0",
+  "description": "Grab logos from Sean Martell's site.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mythmon/corsica-martell.git"
+  },
+  "keywords": [
+    "corsica"
+  ],
+  "author": "Mike Cooper <mythmon@gmail.com>",
+  "license": "MPL2",
+  "bugs": {
+    "url": "https://github.com/mythmon/corsica-martell/issues"
+  },
+  "homepage": "https://github.com/mythmon/corsica-martell",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "es6-promise": "^1.0.0",
+    "nunjucks": "^1.0.5"
+  }
+}

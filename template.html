@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+    <title>Martell Logo</title>
+    <style>
+      body {
+        background: #EBEBEB;
+        margin: 0;
+        font-size: 1.3vw;
+        font-family: mono;
+      }
+
+      #wrap {
+        width: 60vw;
+        margin-left: 20vw;
+        background: #fff;
+      }
+
+      h1 {
+        text-align: center;
+        background-color: #326CBD;
+        color: #FFF;
+        margin: 0;
+        padding: 0.5vmax;
+        font-size: 2vw;
+      }
+
+      .content {
+        padding: 1vmax
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrap">
+      <h1>Etherpad / {{ title }}</h1>
+      <div class="content">{{ body }}</div>
+  </body>
+</html>
