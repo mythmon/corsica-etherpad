@@ -1,11 +1,11 @@
 {
   "name": "corsica-martell",
-  "version": "0.1.0",
-  "description": "Grab logos from Sean Martell's site.",
+  "version": "1.0.0",
+  "description": "Show Etherpads on Corsica.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mythmon/corsica-martell.git"
+    "url": "https://github.com/mythmon/corsica-etherpad.git"
   },
   "keywords": [
     "corsica"
@@ -13,9 +13,9 @@
   "author": "Mike Cooper <mythmon@gmail.com>",
   "license": "MPL2",
   "bugs": {
-    "url": "https://github.com/mythmon/corsica-martell/issues"
+    "url": "https://github.com/mythmon/corsica-etherpad/issues"
   },
-  "homepage": "https://github.com/mythmon/corsica-martell",
+  "homepage": "https://github.com/mythmon/corsica-etherpad",
   "dependencies": {
     "cheerio": "^0.17.0",
     "es6-promise": "^1.0.0",
